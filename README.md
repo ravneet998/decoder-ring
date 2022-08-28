@@ -19,9 +19,9 @@ All of the functions can be found inside of the src/ directory. Each function an
 
 Below is a checklist of what you need to accomplish.
 
-[ ] Complete the caesar() function.
-[ ] Write tests for the caesar() function.
-[ ] Complete the polybius() function.
-[ ] Write tests for the polybius() function.
-[ ] Complete the substitution() function.
-[ ] Write tests for the substitution() function.
+<p> [ ] Complete the caesar() function. </p>
+<p> [ ] Write tests for the caesar() function. </p>
+<p> [ ] Complete the polybius() function. </p>
+<p> [ ] Write tests for the polybius() function. </p>
+<p> [ ] Complete the substitution() function. </p>
+<p> [ ] Write tests for the substitution() function. </p>
